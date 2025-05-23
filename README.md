@@ -1,12 +1,18 @@
 # Power-Bi-Project
 A Power BI Dashboard from My Data Analytics Journey . 
-M-Mart Bizbeat Dashboard :
-![image](https://github.com/user-attachments/assets/e3433313-1527-4735-9764-a4bcb3ed6e63)
+Pizza Sales Dashboard :
+![Pizza_Sales_home_Dashboard](https://github.com/user-attachments/assets/8346643d-e214-4191-aa71-b12e667e71b8)
+![Pizza_Sales_Top-Worst_Dashboard](https://github.com/user-attachments/assets/6542c7db-b894-424b-b8d5-4e830b61b617)
 
-the actionable insights of this Dashboard:
-1)Target Indore and Pune for new campaigns. 
-2)product launches specially in January .Investigate why May & July underperformed — seasonality or operations?
-3)Promote UPI and digital payments via offers — still room to grow compared to COD.
-4)Electronic Games is dragging profits — maybe over-discounted or has a high return rate.
-5)Clothing and Electronics are both high-profit and high-sales — continue investing here.
-6)Focus on Maharashtra and Madhya Pradesh — highest sales and good profits. Reconsider strategies in Rajasthan due to negative profit.
+
+🔧 Tools & Techniques:
+ - SQL (SSMS): Subqueries, GROUP BY, DATEPART, ALTER TABLE, time-based filtering
+ - Excel: Cleaning, preprocessing, table structuring
+ - Power BI: KPIs, page navigation, slicers, dynamic measures, trend + category insights
+
+🎯 Strategic Recommendations (Summary) 
+ - Promotions	:         Target Thurs–Fri & 7–9PM with offers and staff support
+ - Menu Optimization :  Focus on Large Classic and Supreme pizzas
+ - Low Performers :	    Rebrand, promote, or consider phasing out
+ - Seasonal Dips :      Run special offers during low-demand months like December
+ - Customer Targeting :	Position Veggie pizzas as healthy and Large pizzas as family packs
